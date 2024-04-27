@@ -8,5 +8,7 @@
 
 
 -video usado para conexão com whatsapp:
+
 -https://www.youtube.com/watch?v=-PU-xsEQoJw
+
 -feito no vs code caso de algum erro.
