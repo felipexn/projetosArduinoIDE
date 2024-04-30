@@ -1,4 +1,5 @@
 // Definindo os pinos para LEDs
+//asfdasd
 const int ledPinos[3][3] = {
   {2, 3, 4},
   {5, 6, 7},
@@ -175,6 +176,9 @@ void reiniciarJogo() {
     for (int j = 0; j < 3; j++) {
       jogadorNaPosicao[i][j] = 0;
       digitalWrite(ledPinos[i][j], LOW);
+
+
+      //asd
     }
   }
   jogadorAtual = 1;
